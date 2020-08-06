@@ -7,4 +7,6 @@ timeToRead = 1
 title = "Test post through Forestry"
 
 +++
-Some text just for test. Lorem ipsum dolor
+![](/images/mockup_handle-on-right_11oz.jpg)Some text just for test. Lorem ipsum dolor. 
+
+Some more text and an image 
