@@ -6,16 +6,10 @@ bio: "I envision the world where technology and automation have given us freedom
 avatar: "/images/amoenus_avatar_github.png"
 featured: true
 social:
-- title: unsplash
-  url: https://unsplash.com
+- title: nuget
+  url: https://www.nuget.org/profiles/Amoenus
 - title: github
   url: https://github.com/Amoenus
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
 long_bio: "Why I do what I do:\nI envision the world where technology and automation
   have given us freedom from tedious tasks and everyone can focus on what really matters
   most to them. \nMy personal goal is to remove obstacles so that together we can
