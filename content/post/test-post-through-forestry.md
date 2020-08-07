@@ -2,7 +2,7 @@
 authors = ["TestAuthor", "Amoenus", "Romans Pokrovskis"]
 date = 2020-08-05T21:00:00Z
 excerpt = "This is an excerpt"
-hero = ""
+hero = "/images/chris-ried-ieic5tq8ymk-unsplash.jpg"
 timeToRead = 1
 title = "Test post through Forestry"
 
