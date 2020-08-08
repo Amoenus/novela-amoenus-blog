@@ -2,7 +2,7 @@
 authors = ["Amoenus"]
 date = 2020-08-05T21:00:00Z
 excerpt = ""
-hero = "/images/chris-ried-ieic5tq8ymk-unsplash.jpg"
+hero = "/images/no-method-too-small-1.png"
 timeToRead = 1
 title = "No method too small"
 
@@ -19,7 +19,7 @@ Frustrated with the issue and with business breathing down my neck I started sli
 
 But. It. Worked.
 
-After the next deployment logs were showing the same `NullReferenceException` but now the stack trace pointed me to some `Method13`.
+After the next deployment logs were showing the same `NullReferenceException` but now the stack trace pointed me to some `Method13`![](/images/no-method-too-small.png).
 
 The resulting stack trace finally allowed to pinpoint the issue. The fix then was just a simple null check.
 
