@@ -6,12 +6,16 @@ bio: "I envision the world where technology and automation have given us freedom
 avatar: "/images/amoenus_avatar_github.png"
 featured: true
 social:
+- title: github
+  url: https://github.com/Amoenus
+- title: twitter
+  url: https://twitter.com/motivated_it
+- title: linkedin
+  url: https://www.linkedin.com/in/romanspokrovskis/
 - title: devto
   url: https://dev.to/amoenus
 - title: nuget
   url: https://www.nuget.org/profiles/Amoenus
-- title: github
-  url: https://github.com/Amoenus
 long_bio: "Why I do what I do:\nI envision the world where technology and automation
   have given us freedom from tedious tasks and everyone can focus on what really matters
   most to them. \nMy personal goal is to remove obstacles so that together we can
