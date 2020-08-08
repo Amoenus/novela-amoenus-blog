@@ -19,7 +19,7 @@ Frustrated with the issue and with business breathing down my neck I started sli
 
 But. It. Worked.
 
-After the next deployment logs were showing the same `NullReferenceException` but now the stack trace pointed me to some Method13.
+After the next deployment logs were showing the same `NullReferenceException` but now the stack trace pointed me to some `Method13`.
 
 The resulting stack trace finally allowed to pinpoint the issue. The fix then was just a simple null check.
 
