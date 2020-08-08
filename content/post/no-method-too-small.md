@@ -11,15 +11,15 @@ This story starts with a call from the 1st line support that users were getting 
 
 The problem was that the application was behind the hardened environment that we had no access to.
 
-The only thing we could do is enable logging which in itself took a whole week to get approved. And the result the Developers favourite - `NullReferenceException` in one of the biggest methods I've ever seen in my whole career. Needless to say, that was not very helpful and we were no closer to the solution. 
+The only thing we could do is enable logging which in itself took a whole week to get approved. And the result the Developers favourite - `NullReferenceException` in one of the biggest methods, I've ever seen in my whole career. Needless to say, that was not very helpful and we were no closer to the solution.
 
 What. A. Pain.
 
 Frustrated with the issue and with business breathing down my neck I started slicing this Monster of a method into smaller and smaller chunks. Even if some action was just a one-liner that would not stop me to create a method. At one point I could no longer care for method names resorting to such classics like `Method1`, `FooBar123` and `DoStuff`.
 
-But. It. Worked. 
+But. It. Worked.
 
-After next deployment logs were showing same `NullReferenceException` but now the stack trace pointed me to some Method13. 
+After the next deployment logs were showing the same `NullReferenceException` but now the stack trace pointed me to some Method13.
 
 The resulting stack trace finally allowed to pinpoint the issue. The fix then was just a simple null check.
 
