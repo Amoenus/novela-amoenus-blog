@@ -6,6 +6,8 @@ bio: "I envision the world where technology and automation have given us freedom
 avatar: "/images/amoenus_avatar_github.png"
 featured: true
 social:
+- title: devto
+  url: https://dev.to/amoenus
 - title: nuget
   url: https://www.nuget.org/profiles/Amoenus
 - title: github
