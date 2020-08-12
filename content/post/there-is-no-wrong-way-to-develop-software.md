@@ -3,7 +3,7 @@ authors = []
 date = ""
 draft = true
 excerpt = ""
-hero = ""
+hero = "/images/there-is-no-wrong-way-to-develop-software.png"
 timeToRead = 0
 title = "There is no 'wrong' way to develop software"
 
