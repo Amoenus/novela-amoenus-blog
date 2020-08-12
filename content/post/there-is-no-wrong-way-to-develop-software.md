@@ -1,6 +1,6 @@
 +++
 authors = ["Amoenus"]
-date = ""
+date = 2020-08-13T21:00:00Z
 excerpt = ""
 hero = "/images/there-is-no-wrong-way-to-develop-software.png"
 timeToRead = 0
