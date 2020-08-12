@@ -1,7 +1,7 @@
 +++
 authors = ["Amoenus"]
 date = 2020-08-13T21:00:00Z
-excerpt = ""
+excerpt = "The word ‘wrong’ is completely meaningless when it comes to describing the way code is written. It won’t sway either of arguing parties to change their opinion."
 hero = "/images/there-is-no-wrong-way-to-develop-software.png"
 timeToRead = 0
 title = "There is no 'wrong' way to develop software"
