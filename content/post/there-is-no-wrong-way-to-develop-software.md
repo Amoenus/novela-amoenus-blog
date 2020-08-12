@@ -7,7 +7,7 @@ timeToRead = 0
 title = "There is no 'wrong' way to develop software"
 
 +++
-Today I would like to discuss a topic of 'wrong' talk in software development.
+Today I would like to discuss a topic of 'wrong' code in software development.
 
 I often find developers arguing. It can be about the use of languages, certain patterns or frameworks. Whichever topic it is, each of the arguers is adamant that the opposing approach is 'wrong'.
 
@@ -27,7 +27,7 @@ All these patterns, frameworks, etc. help you to bootstrap your project at the v
 
 In contrast, you may have a codebase with the line count approaching 1 million. Even if those lines are written using the most ideal programming language, you still risk having problems. For example, you may have structured your code without proper separation. The code may also have some convoluted logic. The language choice or use of functional programming vs OOP will not save you from problems. When the complexity of the application raises, the significance of those choices approaches zero.
 
- The bigger the project, the more important it becomes to have sensible architecture and separation of elements in your code.
+The bigger the project, the more important it becomes to have sensible architecture and separation of elements in your code.
 
 After your code is separated arguing about 'wrong' code becomes a moot point. Each element can be written in a way and in a language that is the most practical for the problem at hand.
 
