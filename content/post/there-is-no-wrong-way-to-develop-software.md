@@ -1,7 +1,6 @@
 +++
 authors = ["Amoenus"]
 date = ""
-draft = true
 excerpt = ""
 hero = "/images/there-is-no-wrong-way-to-develop-software.png"
 timeToRead = 0
