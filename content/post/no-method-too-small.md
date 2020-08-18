@@ -27,6 +27,6 @@ While Dev team who did not appreciate my creative method naming it was obvious t
 
 It might seem silly to separate the most obvious one-liners into their own methods and sometimes even whole classes but not living through that experience alone is worth it for me.
 
-Did you ever found yourself in a situation where you wished your stack trace was just a little bit more in-depth? Tell me in the comments ^_^
+Did you ever found yourself in a situation where you wished your stack trace was just a little bit more in-depth? Tell me in the [comments](https://dev.to/amoenus/no-method-too-small-35pp#comments "comments") ^_^
 
 So now go and look at your code and see if you can pepper it with smaller methods so that you stack traces can pave your way to your debugging success.
