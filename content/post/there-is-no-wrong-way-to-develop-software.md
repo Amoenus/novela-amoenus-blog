@@ -33,7 +33,7 @@ In contrast, you may have a codebase with the line count approaching 1 million. 
 
 The bigger the project, the more important it becomes to have sensible architecture and separation of elements in your code.
 
-![Maze. Used as a visual aid to show complicated application](/images/maze.webp "Maze")
+![Maze. Used as a visual aid to show complicated application](/images/maze.jpg "Maze")
 
 After your code is separated arguing about 'wrong' code becomes a moot point. Each element can be written in a way and in a language that is the most practical for the problem at hand.
 
