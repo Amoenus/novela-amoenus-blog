@@ -13,7 +13,7 @@ I often find developers arguing. It can be about the use of languages, certain p
 
 Those arguments between developers are fierce. People defend their right to develop software in their preferred style. So in situations when the preferred approach is criticized, people start to treat it as a personal attack. This leads to violent responses towards opposing viewpoints.
 
-![](/images/bear-fight.webp)
+![Two bears fighting. Used as an illustration of an argument between two developers](/images/bear-fight.webp "Bear fight")
 
 This often happens because people think that there is only one 'correct' way of doing things. That some people are not educated enough to follow 'the right way'. These personal biases often stem from education and experience.
 
