@@ -33,6 +33,8 @@ In contrast, you may have a codebase with the line count approaching 1 million. 
 
 The bigger the project, the more important it becomes to have sensible architecture and separation of elements in your code.
 
+![Maze. Used as a visual aid to show complicated application](/images/maze.webp "Maze")
+
 After your code is separated arguing about 'wrong' code becomes a moot point. Each element can be written in a way and in a language that is the most practical for the problem at hand.
 
 I would like to underline once again that views of others no matter how radical are just that - views. It is perfectly normal to not share those viewpoints. At the end of the day, it's irrelevant for the end-user in which language you write your code in. It's also unimportant whether you used the latest version of EF Core.
