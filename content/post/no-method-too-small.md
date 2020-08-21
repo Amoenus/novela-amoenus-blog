@@ -2,7 +2,7 @@
 authors = ["Amoenus"]
 date = 2020-08-05T21:00:00Z
 excerpt = ""
-hero = "/images/no-method-too-small-1.png"
+hero = "/images/no-method-too-small.png"
 timeToRead = 1
 title = "No method too small"
 
