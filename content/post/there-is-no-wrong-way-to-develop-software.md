@@ -23,6 +23,8 @@ The word 'wrong' is completely meaningless when it comes to describing the way c
 
 Think. Will the opinion of others hinder your ability to solve the problems in your day-to-day life?
 
+![Over-the top Swiss army knife. A visual aid depicting not ideal, convoluted application that still is useful](/images/swilssarmyknife.webp "Over-the-top Swiss army knife")
+
 Some argue that using specific language, framework or pattern will allow you to make fewer mistakes. This is misguided. It is with real complexity and a high volume of code where real problems arise. Difficulties come from the sheer amount of code and inter-connection within it. Regardless of the language or methodologies you use.
 
 All these patterns, frameworks, etc. help you to bootstrap your project at the very start. They are very helpful when the amount of code is very small.
