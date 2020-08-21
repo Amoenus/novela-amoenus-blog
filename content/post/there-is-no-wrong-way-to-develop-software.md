@@ -3,7 +3,7 @@ authors = ["Amoenus"]
 date = 2020-08-12T21:00:00Z
 excerpt = "The word ‘wrong’ is completely meaningless when it comes to describing the way code is written. It won’t sway either of arguing parties to change their opinion."
 hero = "/images/there-is-no-wrong-way-to-develop-software.png"
-timeToRead = 0
+timeToRead = 1
 title = "There is no 'wrong' way to develop software"
 
 +++
@@ -12,6 +12,8 @@ Today I would like to discuss a topic of 'wrong' code in software development.
 I often find developers arguing. It can be about the use of languages, certain patterns or frameworks. Whichever topic it is, each of the arguers is adamant that the opposing approach is 'wrong'.
 
 Those arguments between developers are fierce. People defend their right to develop software in their preferred style. So in situations when the preferred approach is criticized, people start to treat it as a personal attack. This leads to violent responses towards opposing viewpoints.
+
+![](/images/bear-fight.webp)
 
 This often happens because people think that there is only one 'correct' way of doing things. That some people are not educated enough to follow 'the right way'. These personal biases often stem from education and experience.
 
